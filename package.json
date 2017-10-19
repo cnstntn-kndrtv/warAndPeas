@@ -1,0 +1,17 @@
+{
+  "name": "peas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "peas.js",
+  "dependencies": {
+    "chart": "github:jstrace/chart",
+    "clear": "0.0.1",
+    "sleep": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constantin Kondratyev",
+  "license": "ISC"
+}
